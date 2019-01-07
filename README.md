@@ -56,6 +56,12 @@ http://localhost:1337/admin
   - title: string
   - body: text
 
+### ロールと権限
+
+- Public
+  - 権限: Article
+    - count, find, findone にチェックを入れ、保存
+
 ### 作成したコンテンツタイプ:Articlesに内容を追加
 
 ## フロント(Nuxt.js)
